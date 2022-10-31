@@ -1,6 +1,8 @@
 # Demo
 
+### 启动
 ```bash
+composer i
 ./yii migrate
 ./yii serve
 ```
